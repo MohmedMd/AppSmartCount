@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppSmartCount", "AppSmartCount\AppSmartCount.csproj", "{ABAC6500-B444-4D8A-AE05-AED58F6F6EDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABAC6500-B444-4D8A-AE05-AED58F6F6EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABAC6500-B444-4D8A-AE05-AED58F6F6EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABAC6500-B444-4D8A-AE05-AED58F6F6EDD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{ABAC6500-B444-4D8A-AE05-AED58F6F6EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABAC6500-B444-4D8A-AE05-AED58F6F6EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABAC6500-B444-4D8A-AE05-AED58F6F6EDD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {008533F8-290A-46F8-B2A7-6F7A2C11F75D}
+	EndGlobalSection
+EndGlobal
